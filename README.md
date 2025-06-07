@@ -44,6 +44,7 @@ The project also reinforced important software development concepts such as text
 
 *Output*:
 
+![Image](https://github.com/user-attachments/assets/b4882476-930c-4ff9-818e-d0257a9ff0f8)
 
 The final deliverable was a fully functional AI chatbot written in Python, which responds to user input using semantic similarity analysis via spaCy. The project was uploaded to GitHub as required, and the repository contains all necessary files including the script and a sample README. This task helped bridge the gap between theory and practical application in the field of NLP and conversational AI.
 
