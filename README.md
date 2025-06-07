@@ -13,6 +13,7 @@
 *MENTOR*: NEELA SANTOSH
 
 *TASK DESCRIPTION*: 
+
 Objective:
 The objective was to develop a simple AI-based chatbot using Natural Language Processing (NLP) techniques. The aim was to enable a chatbot to interpret user input and respond accordingly using the spaCy library, one of the most powerful and efficient NLP tools in Python. The chatbot is expected to handle basic user queries like greetings, farewells, and questions about its identity and capabilities.
 
